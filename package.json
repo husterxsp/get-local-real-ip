@@ -1,0 +1,23 @@
+{
+  "name": "get-local-real-ip",
+  "version": "1.0.0",
+  "description": "get local ipv4 to start a server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/husterxsp/get-local-real-ip.git"
+  },
+  "keywords": [
+    "local",
+    "ipv4"
+  ],
+  "author": "husterxsp",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/husterxsp/get-local-real-ip/issues"
+  },
+  "homepage": "https://github.com/husterxsp/get-local-real-ip#readme"
+}
